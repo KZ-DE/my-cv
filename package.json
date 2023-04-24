@@ -1,5 +1,5 @@
 {
-  "homepage": "https//:KZ-DE.github.io/my-cv",
+  "homepage": "https://KZ-DE.github.io/my-cv",
   "name": "cv",
   "version": "0.1.0",
   "private": true,
@@ -14,7 +14,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy": "npm ru build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
