@@ -9,7 +9,7 @@ import lin from "./in.png";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/all";
 
-import logo from "./logo.svg";
+import logo from "./logo.jpeg";
 import { useEffect, useRef } from "react";
 
 export const Parallax = () => {
