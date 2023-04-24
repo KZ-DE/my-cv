@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/https//:KZ-DE.github.io/my-cv/static/css/main.073c9b0a.css",
+    "main.js": "/https//:KZ-DE.github.io/my-cv/static/js/main.f82e8b44.js",
+    "static/js/787.a71561b8.chunk.js": "/https//:KZ-DE.github.io/my-cv/static/js/787.a71561b8.chunk.js",
+    "static/media/logo.svg": "/https//:KZ-DE.github.io/my-cv/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/https//:KZ-DE.github.io/my-cv/index.html",
+    "main.073c9b0a.css.map": "/https//:KZ-DE.github.io/my-cv/static/css/main.073c9b0a.css.map",
+    "main.f82e8b44.js.map": "/https//:KZ-DE.github.io/my-cv/static/js/main.f82e8b44.js.map",
+    "787.a71561b8.chunk.js.map": "/https//:KZ-DE.github.io/my-cv/static/js/787.a71561b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f82e8b44.js"
+  ]
+}
